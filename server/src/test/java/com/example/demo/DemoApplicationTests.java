@@ -11,7 +11,7 @@ public class DemoApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		assertFalse(true);
+		fail("Failing the test case");
 	}
 
 }
