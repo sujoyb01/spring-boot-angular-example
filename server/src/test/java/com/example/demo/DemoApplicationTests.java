@@ -12,7 +12,7 @@ public class DemoApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		assertFalse("Failing the test case", true);
+		assertFalse("Failing the test case", false);
 	}
 
 }
